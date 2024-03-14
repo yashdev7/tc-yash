@@ -1,0 +1,48 @@
+API key - 193420346285354555
+
+Text Color - #C6D2D9
+Border Color - #12191D
+Background Color - #12191D
+
+
+
+1). FRONT END DEVELOPMENT
+JS
+https://www.youtube.com/watch?v=htznIeWKgg8&list=PLbtI3_MArDOkNtOan8BQkG6P8wf6pNVz-&index=3
+https://www.youtube.com/watch?v=EgDmCbhmstU&list=PLbtI3_MArDOkNtOan8BQkG6P8wf6pNVz-&index=5
+https://www.youtube.com/watch?v=ks4MFTHLfyg&list=PLbtI3_MArDOkNtOan8BQkG6P8wf6pNVz-&index=11
+HTML, CSS, JS Project
+https://www.youtube.com/watch?v=xG1_vbVPUUs&list=PLbtI3_MArDOkNtOan8BQkG6P8wf6pNVz-&index=7
+https://www.youtube.com/watch?v=UmfhqDJmzeg&list=PLbtI3_MArDOkNtOan8BQkG6P8wf6pNVz-&index=1
+
+
+
+kendo react 
+https://www.telerik.com/kendo-react-ui/components/grid/
+
+JS Essential Training
+https://www.linkedin.com/learning/javascript-essential-training/navigating-the-js-landscape?dApp=211923813&leis=LAA&u=39207972
+
+udemy
+codedesk1320@gmail.com
+mr@9510717459
+
+https://roadmap.sh/full-stack
+
+https://omnicomgroup.csod.com/LMS/catalog/Welcome.aspx?tab_page_id=-67&tab_id=221001405&isCompletionRedirect=true&loStatus=32&regnum=1&loId=6dd31884-3bbd-594d-b5f7-97a6a0a1dd5a
+
+JS Async :
+https://www.linkedin.com/learning/javascript-ajax-and-fetch/creating-and-working-with-api-requests?dApp=211923813&leis=LAA&u=39207972
+
+
+React.js Essential:
+https://www.linkedin.com/learning/react-js-essential-training-14836121/next-steps?dApp=211923813&leis=LAA&u=39207972
+
+React Hooks:
+https://www.linkedin.com/learning/react-hooks?dApp=211923813&leis=LAA&u=39207972
+
+React Components:
+https://www.linkedin.com/learning/react-components-context-and-accessibility?dApp=211923813&leis=LAA&u=39207972
+
+React PWA:
+https://www.linkedin.com/learning/react-building-progressive-web-apps-pwas?dApp=211923813&leis=LAA&u=39207972
